@@ -1,5 +1,0 @@
-# Streamlit secrets file
-.streamlit/secrets.toml
-
-# Python virtual environment
-.venv/
