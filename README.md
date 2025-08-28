@@ -54,7 +54,8 @@ Git 저장소에 API 키 파일과 가상 환경 파일이 포함되지 않도�
 ### secrets.toml 파일 생성:
 프로젝트의 루트 폴더에 .streamlit 폴더를 만들고, 그 안에 secrets.toml 파일을 생성합니다. 파일 내용은 아래와 같이 작성합니다.
 
-```[openai_section]
+```
+[openai_section]
 api_key = "여기에_실제_OpenAI_API_키를_붙여넣으세요"
 ```
 
